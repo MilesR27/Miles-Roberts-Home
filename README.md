@@ -1,6 +1,6 @@
 # Miles-Roberts-Home
 
-<h1>Hello, I'm Miles! <br/> Statisics Major at Amherst College</a>, 
+<h1>Hello, I'm Miles! <br/> Statistics Major at Amherst College</a>, 
 
 <h2>👨‍💻 Projects:</h2>
 
